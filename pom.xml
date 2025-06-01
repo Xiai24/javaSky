@@ -122,6 +122,7 @@
                 <artifactId>wechatpay-apache-httpclient</artifactId>
                 <version>0.4.8</version>
             </dependency>
+
         </dependencies>
     </dependencyManagement>
 </project>
