@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5t9rQ9nH8XQLvTMvMC4m
     access-key-secret: Ho8zV0wG3Eh9mOB3QjNaVgn3gcHFYu
     bucket-name: sky-take-outeds
+  redis:
+    host:124.220.67.238
+    port:6379
+    password:xfaoi1
+    database:10
