@@ -43,7 +43,7 @@ public class CategoryController {
      * @param categoryPageQueryDTO
      * @return
      */
-    @GetMapping("/page")
+@GetMapping("/page")
     @ApiOperation("分类分页查询")
     public Result<PageResult> page(CategoryPageQueryDTO categoryPageQueryDTO){
         log.info("分页查询：{}", categoryPageQueryDTO);

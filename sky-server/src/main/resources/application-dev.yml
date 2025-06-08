@@ -12,7 +12,10 @@ sky:
     access-key-secret: Ho8zV0wG3Eh9mOB3QjNaVgn3gcHFYu
     bucket-name: sky-take-outeds
   redis:
-    host:124.220.67.238
-    port:6379
-    password:xfaoi1
-    database:10
+    host: 124.220.67.238
+    port: 6379
+    password: xfaoi1
+    database: 10
+  wechat:
+    appid: wxd6cb5b5050bead6e
+    secret: 1d672ff48a08bdb8e89fd32074942904
